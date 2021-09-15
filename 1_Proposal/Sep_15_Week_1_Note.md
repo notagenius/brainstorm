@@ -1,5 +1,5 @@
 # **off-topic**
-Personal working livestream is online every working day. it is not serious, can only be used as status and availablity check: [https://www.twitch.tv/thatwolfiefeeling](https://www.twitch.tv/thatwolfiefeeling)
+My Personal working livestream is online every working day. it is not serious, can only be used as status and availablity check: [https://www.twitch.tv/thatwolfiefeeling](https://www.twitch.tv/thatwolfiefeeling)
 
 # Paper 1: NeRF
 
