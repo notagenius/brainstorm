@@ -83,7 +83,7 @@ for 3D-Aware Image Synthesis)
 
 # Paper 2: WoodPixel
 - **Off-Topic**
-1. I used to make a extension for blender as ["virtual laser-cutter"](https://github.com/notagenius/virtual_laser_cutter), it is also with customized texture. can make a virtual cut and automatic assembly with blender scripts I believe.
+1. I used to make an extension for blender as ["virtual laser-cutter"](https://github.com/notagenius/virtual_laser_cutter), it is also with customized texture. can make a virtual cut and automatic assembly with blender scripts I believe.
 
 ![vitural laser cutter](https://github.com/notagenius/virtual_laser_cutter/blob/master/doc/side_view_render.png)
 
@@ -91,7 +91,30 @@ for 3D-Aware Image Synthesis)
 1. compiled c++ dependency
 2. don't know how to run training, no data. also missing insturction
 
+
+
 # Paper 3: Deep Non-Line-Of-Sight Reconstruction
+- **Non-Line-Of-Sight Approaches**
+1. combinatorial approaches 
+2. parametric model fits using simple, highly efficient forward models 
+3. backpro-jection not unlike what is used in computed tomography, 
+4. inverse filtering approaches and space-time diffraction integrals
+
+- **Dataset**
+1. [redwood](http://redwood-data.org/)
+2. [shapeNet](https://shapenet.org/)
+3. [FlatNet]()
+
+- **SPAD Dataset**
+1. rendered pixel to an experimental SPAD measurement
+
+- **Testsets**
+-SynthBunny, SynthMannequin and SynthDiffuseS.
+
+- **Architecture**
+- tailored autoencoder architecture
+
+
 
 
 
